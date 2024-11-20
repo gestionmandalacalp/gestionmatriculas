@@ -4341,7 +4341,7 @@
 &lt;p&gt;Domicilio Real: Dirección del domicilio de residencia actual.&lt;/p&gt;
 &lt;p&gt;La recopilación y mantenimiento actualizado de estos datos filiatorios es crucial para:&lt;/p&gt;
 &lt;p&gt;- Verificar la identidad del profesional de manera unívoca.&lt;br /&gt;- Contar con información de contacto válida y reciente.&lt;br /&gt;- Asegurar el cumplimiento de requisitos legales y normativos.&lt;br /&gt;- Facilitar la comunicación y notificaciones oficiales.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.9.png&quot; width=&quot;1385&quot; height=&quot;894&quot; alt=&quot;Datos Filiatorios de un Matriculado&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/imagen.9.png&quot; width=&quot;1387&quot; height=&quot;862&quot; alt=&quot;Vista de Datos Filiatorios&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;Esta información personal forma parte integral del expediente del profesional y debe estar siempre completa y exacta en el sistema.  El usuario podrá editar esta información haciendo click en el enlace &quot;Editar&quot;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                           <int value="4"></int>
@@ -4362,7 +4362,7 @@
                                <instance class="exe.engine.field.TextField">
                                 <dictionary>
                                  <string role="key" value="_id"></string>
-                                 <int value="397"></int>
+                                 <int value="411"></int>
                                  <string role="key" value="_idevice"></string>
                                  <none></none>
                                  <string role="key" value="_instruc"></string>
@@ -4376,7 +4376,7 @@
                                 </dictionary>
                                </instance>
                                <string role="key" value="_id"></string>
-                               <unicode value="34_140_2.1"></unicode>
+                               <unicode value="34_140_2.2"></unicode>
                                <string role="key" value="_imageResource"></string>
                                <instance class="exe.engine.resource.Resource" reference="79">
                                 <dictionary>
@@ -4387,9 +4387,9 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="imagen.9.png"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="/tmp/tmpk6Or8o/imagen.9.png"></string>
+                                 <string value="/tmp/tmpZUb4i2.eXe/previews/imagen.png"></string>
                                  <string role="key" value="checksum"></string>
-                                 <string value="62770946fe6b554e5b3bcd53580bbeb7"></string>
+                                 <string value="1ee0e19ac23cfc6e0e1f809d4b7e19df"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                  <int value="2"></int>
                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -4416,7 +4416,7 @@
                           <string role="key" value="intlinks_to_anchors"></string>
                           <dictionary></dictionary>
                           <string role="key" value="nextImageId"></string>
-                          <int value="2"></int>
+                          <int value="3"></int>
                           <string role="key" value="parentNode"></string>
                           <reference key="78"></reference>
                          </dictionary>
@@ -4564,7 +4564,7 @@
 &lt;li&gt;Identificar y diferenciar a cada profesional de manera única.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;El tener estos datos actualizados y completos es fundamental para la correcta gestión y control de las matrículas.&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;resources/imagen.10.png&quot; width=&quot;1385&quot; height=&quot;782&quot; alt=&quot;Información de la Matrícula&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;resources/imagen.10.png&quot; width=&quot;1603&quot; height=&quot;818&quot; alt=&quot;Vista de datos de Matrícula&quot; style=&quot;display: block; margin-left: auto; margin-right: auto;&quot; /&gt;&lt;/p&gt;
 &lt;p&gt;El usuario podrá editar esta información haciendo click en el enlace &quot;Editar&quot;.&lt;/p&gt;&lt;/div&gt;"></unicode>
                           <string role="key" value="exe.engine.field.Field.persistenceVersion"></string>
                           <int value="4"></int>
@@ -4585,7 +4585,7 @@
                                <instance class="exe.engine.field.TextField">
                                 <dictionary>
                                  <string role="key" value="_id"></string>
-                                 <int value="383"></int>
+                                 <int value="412"></int>
                                  <string role="key" value="_idevice"></string>
                                  <none></none>
                                  <string role="key" value="_instruc"></string>
@@ -4599,7 +4599,7 @@
                                 </dictionary>
                                </instance>
                                <string role="key" value="_id"></string>
-                               <unicode value="36_142_2.1"></unicode>
+                               <unicode value="36_142_2.2"></unicode>
                                <string role="key" value="_imageResource"></string>
                                <instance class="exe.engine.resource.Resource" reference="83">
                                 <dictionary>
@@ -4610,9 +4610,9 @@
                                  <string role="key" value="_storageName"></string>
                                  <string value="imagen.10.png"></string>
                                  <string role="key" value="_userName"></string>
-                                 <string value="/tmp/tmpk6Or8o/imagen.10.png"></string>
+                                 <string value="/tmp/tmpZUb4i2.eXe/previews/imagen.png"></string>
                                  <string role="key" value="checksum"></string>
-                                 <string value="b687a77ba71c8f7500598b5ec099cbfc"></string>
+                                 <string value="c0e43c4aacbf465fc390ff9f6103bf2a"></string>
                                  <string role="key" value="exe.engine.resource.Resource.persistenceVersion"></string>
                                  <int value="2"></int>
                                  <string role="key" value="exe.engine.resource._Resource.persistenceVersion"></string>
@@ -4639,7 +4639,7 @@
                           <string role="key" value="intlinks_to_anchors"></string>
                           <dictionary></dictionary>
                           <string role="key" value="nextImageId"></string>
-                          <int value="2"></int>
+                          <int value="3"></int>
                           <string role="key" value="parentNode"></string>
                           <reference key="82"></reference>
                          </dictionary>
@@ -6843,7 +6843,7 @@
   <string role="key" value="backgroundImgTile"></string>
   <bool value="0"></bool>
   <string role="key" value="currentNode"></string>
-  <reference key="86"></reference>
+  <reference key="105"></reference>
   <string role="key" value="dublinCore"></string>
   <instance class="exe.engine.package.DublinCore">
    <dictionary>
@@ -8085,6 +8085,10 @@
   <string value="2.9"></string>
   <string role="key" value="resources"></string>
   <dictionary>
+   <string role="key" value="1ee0e19ac23cfc6e0e1f809d4b7e19df"></string>
+   <list>
+    <reference key="79"></reference>
+   </list>
    <string role="key" value="2e1c4d4aa92dd28017947494ecbe079f"></string>
    <list>
     <reference key="30"></reference>
@@ -8108,10 +8112,6 @@
    <string role="key" value="5d49bb91f009c70359dc71b042da31c8"></string>
    <list>
     <reference key="66"></reference>
-   </list>
-   <string role="key" value="62770946fe6b554e5b3bcd53580bbeb7"></string>
-   <list>
-    <reference key="79"></reference>
    </list>
    <string role="key" value="67451ab666b13c352bc474ddca94d800"></string>
    <list>
@@ -8165,10 +8165,6 @@
    <list>
     <reference key="93"></reference>
    </list>
-   <string role="key" value="b687a77ba71c8f7500598b5ec099cbfc"></string>
-   <list>
-    <reference key="83"></reference>
-   </list>
    <string role="key" value="b7a04e02e9cc450fd3eca819aa5b88ff"></string>
    <list>
     <reference key="126"></reference>
@@ -8176,6 +8172,10 @@
    <string role="key" value="c0bd84a845f9fcba675cc7be265d9da4"></string>
    <list>
     <reference key="87"></reference>
+   </list>
+   <string role="key" value="c0e43c4aacbf465fc390ff9f6103bf2a"></string>
+   <list>
+    <reference key="83"></reference>
    </list>
    <string role="key" value="c1470d6d41245e75c98d623983f96154"></string>
    <list>
