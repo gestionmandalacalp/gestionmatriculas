@@ -102,21 +102,43 @@
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta18_143_2" class="block iDevice_content">
-<div class="exe-text"><p>Descripción Descargar CSV</p></div>
+<div class="exe-text"><p>La sección de Movimientos permite descargar un reporte en formato CSV que contiene el historial completo de los movimientos registrados para la matrícula del profesional.</p>
+<p>Para acceder a este reporte, el usuario debe hacer clic en el botón "Descargar CSV" ubicado en la parte superior de la sección. Esto generará y descargará un archivo en formato CSV que incluye la siguiente información por cada movimiento:</p>
+<ul>
+<li>Tipo de Movimiento: Indica la acción realizada (Juramento, Cancelación a su Pedido, Incompatibilidad, etc.)</li>
+<li>Estado: Muestra el estado actual del movimiento (pendiente, finalizado)</li>
+<li>Fecha de Creación: Registra la fecha en que se creó el movimiento</li>
+<li>Fecha de estado: Fecha en que el movimiento tomó el estado actual</li>
+<li>Motivo: Breve descripción del motivo del movimiento</li>
+</ul>
+<p>Este archivo descargado puede ser utilizado tanto para consultar el historial de movimientos como también para generar un nuevo archivo CSV que permita importar masivamente actualizaciones o nuevos movimientos al sistema para el matriculado seleccionado.</p>
+<p><img src="imagen.18.png" width="1391" height="485" alt="Descarga de Movimientos del Matriculado" style="display: block; margin-left: auto; margin-right: auto;" /></p></div>
 </div>
 </div>
 </div>
 </div>
 </article>
-<article class="iDevice_wrapper textIdevice em_iDevice" id="id19">
+<article class="iDevice_wrapper textIdevice em_iDevice em_iDevice_video" id="id19">
 <div class="iDevice emphasis1" >
-<header class="iDevice_header iDevice_header_noIcon"><h1 class="iDeviceTitle">Importar CSV</h1></header>
+<header class="iDevice_header" style="background-image:url(icon_video.png)"><h1 class="iDeviceTitle">Importar CSV</h1></header>
 <div class="iDevice_inner">
 <div class="iDevice_content_wrapper">
 <div id="ta19_144_2" class="block iDevice_content">
-<div class="exe-text"><p>En el caso en que se necesite modificar y actualizar la información de movimientos para aquellos matriculados que presentan inconsistencias, existe la posibilidad de importar un documento en formato .csv para corregir la información y persistirla en forma consistente. A continuación se describe la forma de llevarlo a cabo.</p>
+<div class="exe-text"><p style="text-align: justify;">A continuación se detalla el proceso de importación de movimientos de matrícula mediante un archivo CSV:</p>
+<p style="text-align: justify;">El archivo CSV debe contener la siguiente información por cada movimiento, en orden cronológico inverso (el último movimiento en la segunda fila del archivo):</p>
+<ul style="text-align: justify;">
+<li>Tipo de Movimiento: Juramento, Cancelación a su Pedido, etc.</li>
+<li>Motivo del Movimiento: Breve descripción del motivo</li>
+<li>Fecha del Movimiento</li>
+<li>Fecha de Creación del Movimiento (debe ser posterior a la fecha del movimiento)</li>
+<li>Fecha del Estado del Movimiento (debe ser posterior a la fecha de creación del movimiento)</li>
+<li>Estado del Movimiento: Pendiente o Finalizado</li>
+</ul>
+<p style="text-align: justify;">Al importar este archivo completo y correcto,<strong> el sistema sobrescribirá todos los movimientos registrados previamente</strong>.</p>
+<p style="text-align: justify;"><strong>Es crucial tener en cuenta que esta acción puede alterar significativamente la información de la matrícula, tanto en el legajo del profesional como en aspectos relacionados a cuotas y documentación.</strong></p>
+<p style="text-align: justify;">Por lo tanto, se debe ser muy cuidadoso y responsable al generar y cargar este archivo de movimientos, asegurándose de que la información contenida sea precisa y esté ordenada cronológicamente.</p>
 <p style="text-align: center;"><iframe width="1000" height="800" src="https://www.youtube.com/embed/Oq2S05cPWik" allowfullscreen="allowfullscreen"></iframe></p>
-<p style="text-align: center;"><a href="#tc1c6fa8e-9a1b-0e85-ca67-3a7d40fe2316" id="linkc1c6fa8e-9a1b-0e85-ca67-3a7d40fe2316" title="ATENCIÓN | IMPORTANTE" class="exe-tooltip definition-tt titled-tt red-tt rounded-tt shadowed-tt"><span style="color: #ff0000;">IMPORTANTE</span></a></p>
+<p style="text-align: center;"><a href="#tc1c6fa8e-9a1b-0e85-ca67-3a7d40fe2316" id="linkc1c6fa8e-9a1b-0e85-ca67-3a7d40fe2316" title="ATENCIÓN | IMPORTANTE" class="exe-tooltip definition-tt titled-tt red-tt rounded-tt shadowed-tt"><span style="color: #ff0000;"><strong>IMPORTANTE</strong></span></a></p>
 <div id="tc1c6fa8e-9a1b-0e85-ca67-3a7d40fe2316" class="exe-tooltip-text">
 <p>Los cambios realizados e incorporados en el archivo .csv son de caracter sensible ya que actualizan toda la información registrada de los Movimientos del Matriculado (perdiéndose movimientos registrados con anterioridad) y pueden generar inconsistencias la información del correspondiente a otros módulos como Finanzas, Certificados, etc. Es absoluta responsabilidad del usuario que importa el archivo .csv la correcta utilización y consecuencias generadas.</p>
 </div></div>
